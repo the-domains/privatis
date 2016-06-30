@@ -1,0 +1,14 @@
+layout_spectrum: 0.18120793323032558
+typography_spectrum: 0.09669934213161469
+color:
+  brandStrength: 0.4597413910087198
+  lightness: 0.995572496438399
+  saturation: 0.06771874846890569
+  rhythmicContrast: 0.2385599948465824
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: privatis
